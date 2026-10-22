@@ -40,4 +40,4 @@ CharacterrManager/
 
 **NIM:** 253303621220
 
-**Link Google Docs:** [Dokumen TP3](../JavaVisual_TP03_253303621220_KarynNatashiaSiregar.docx)
+**Link Google Docs:** [Dokumen TP3]()
