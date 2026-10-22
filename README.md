@@ -40,4 +40,4 @@ CharacterrManager/
 
 **NIM:** 253303621220
 
-**Link Google Docs:** [Dokumen TP3]()
+**Link Google Docs:** [Dokumen TP3](https://1drv.ms/w/c/EF681E4F4E3CE288/IQA3LqwMH3jhSJLam470mUvfASUPnESEdle9STdoZw2fhDc?e=EaE6bd)
