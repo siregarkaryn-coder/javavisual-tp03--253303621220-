@@ -15,7 +15,7 @@ Character Manager adalah program sederhana berbasis Java yang digunakan untuk me
 
 ## Screenshot Output
 
-![Screenshot Output](Screenshot_JavaVisual/Screenshot%20Tp3%202026-10-22%20165718.png)
+![Screenshot Output](Screenshot Tp3 2026-10-22 165718.png)
 
 ## Struktur Folder Project
 
