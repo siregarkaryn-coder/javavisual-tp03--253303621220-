@@ -17,13 +17,25 @@ Character Manager adalah program sederhana berbasis Java yang digunakan untuk me
 
 ![Screenshot Output](outputtp3.png)
 
+---
+
+## Fitur Program TP5 (Terbaru)
+
+- **Manajemen & Analisis (Bagian A & B):** Mencegah duplikat nama karakter menggunakan `equals()`, menghitung rata-rata level (`getAverageLevel()`), mencari karakter berdasarkan tipe (`findByType()`) dan level tertinggi (`getHighestLevelCharacter()`).
+- **Fitur Analitik Tambahan (Bagian C):** Menghitung total karakter berdasarkan tipe tertentu (`countByType()`).
+
+## Screenshot Output TP5
+
+![Screenshot Output TP5](outputtp5.png)
+
 ## Struktur Folder Project
 
 ```text
 CharacterrManager/
 ├── README.md
 ├── Screenshot_JavaVisual/
-│   └── Screenshot Tp3 2026-10-22 165718.png
+│   └── outputtp3.png
+│   └── outputtp5.png
 └── src/
     └── com/
         └── unpri/
@@ -31,6 +43,7 @@ CharacterrManager/
                 └── model/
                     ├── Character.java
                     ├── CharacterType.java
+                    ├── CharacterManager.java
                     └── Main.java
 ```
 
@@ -41,3 +54,11 @@ CharacterrManager/
 **NIM:** 253303621220
 
 **Link Google Docs:** [Dokumen TP3](https://1drv.ms/w/c/EF681E4F4E3CE288/IQA3LqwMH3jhSJLam470mUvfASUPnESEdle9STdoZw2fhDc?e=EaE6bd)
+
+**Link Google Docs:** [Dokumen TP5](https://1drv.ms/w/c/3F04BCD0705D5ACD/IQCLGfsidsMiQ6f3CYXbPwSnAcmlPmaHwItOcZx_zgjckoU?e=fP7UHj)
+
+
+
+
+
+
