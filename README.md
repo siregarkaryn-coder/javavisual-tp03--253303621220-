@@ -7,8 +7,6 @@
 
 Character Manager adalah program sederhana berbasis Java yang digunakan untuk mengelola karakter dalam permainan RPG (*Role-Playing Game*).
 
-Program ini dibuat untuk menerapkan konsep pemrograman Java melalui pengelolaan data dan perilaku karakter.
-
 ## Fitur Program
 
 - **Level Up:** Meningkatkan level karakter.
@@ -17,13 +15,7 @@ Program ini dibuat untuk menerapkan konsep pemrograman Java melalui pengelolaan 
 
 ## Screenshot Output
 
-Screenshot hasil program dapat ditambahkan pada bagian ini.
-
-Simpan gambar screenshot di folder `Screenshot_JavaVisual`, lalu gunakan format Markdown berikut:
-
-```markdown
-![Screenshot Output]Screenshot Tp3 2026-10-22 165718.png
-```
+![Screenshot Output](Screenshot_JavaVisual/Screenshot%20Tp3%202026-10-22%20165718.png)
 
 ## Struktur Folder Project
 
@@ -44,10 +36,8 @@ CharacterrManager/
 
 ## Identitas Mahasiswa
 
-- **Nama:** Karyn Natashia Siregar
-- **NIM:** 253303621220
-- **Link Google Docs:** [text](../JavaVisual_TP03_[NIM]_[Nama].docx).
+**Nama:** Karyn Natashia Siregar
 
----
+**NIM:** 253303621220
 
-*Project ini dibuat untuk memenuhi tugas TP3 mata kuliah Java Visual.*
+**Link Google Docs:** [Dokumen TP3](../JavaVisual_TP03_253303621220_KarynNatashiaSiregar.docx)
