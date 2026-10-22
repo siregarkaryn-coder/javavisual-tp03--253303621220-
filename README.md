@@ -4,7 +4,7 @@ Program ini dibuat untuk mengelola karakter RPG sederhana menggunakan Java.
 Program memiliki fitur level up, mana, serta pengecekan status hidup karakter menggunakan method isAlive().
 
 Screenshot Output
-(![alt text](<Screenshot_JavaVisual/Screenshot Tp3 2026-10-22 165718.png>))
+(![alt text](Screenshot Tp3 2026-10-22 165718.png))
 
 Struktur Folder Project
 CharacterrManager
