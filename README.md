@@ -38,7 +38,7 @@ Character Manager adalah program sederhana berbasis Java yang digunakan untuk me
 ## Screenshot Output TP8
 
 1. Screenshot MainWindow (Minimal 5 Karakter + Statistik)
-![Screenshot Sebelum](Screenshot_JavaVisual/outputtp8.png)
+![Screenshot Sebelum](outputtp8_sebelum.png)
 ![Screenshot Sesudah](Screenshot_JavaVisual/outputtp8.png)
 
 2. Penjelasan Aliran Data MVC (3-4 Kalimat)
