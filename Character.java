@@ -68,6 +68,15 @@ public class Character {
         return hitPoints > 0;
     }
 
+    @Override 
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass () != obj.getClass()) return false;
+        Character character = (Character) obj;
+        return name.equalsIgnoreCase(character.name);
+    }
+
+
     @Override
     public String toString() {
         return "Character{name='" + name +
