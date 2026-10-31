@@ -53,6 +53,29 @@ Aliran data dimulai dari kelas `Main` yang berfungsi menginisialisasi objek `Cha
 
 ---
 
+### Fitur Program TP10
+
+* **Theming (Bagian A):** Menggunakan `AppTheme.java` untuk mengatur warna, font, dan border agar tampilan aplikasi lebih konsisten. Kartu karakter memiliki warna berbeda sesuai role masing-masing.
+* **Mini-Challenge (Bagian B):** Karakter dengan level minimal 5 ditampilkan menggunakan teks berwarna emas dan tebal. Batas level disimpan dalam konstanta bernama `GOLD_LEVEL_THRESHOLD`.
+* **Properti Tambahan:**
+
+  1. **Tooltip:** Menampilkan informasi nama, role, dan level karakter ketika kursor diarahkan ke kartu.
+  2. **Border Berdasarkan Role:** Setiap kartu memiliki warna border sesuai role karakter agar lebih mudah dibedakan.
+
+### Alasan Penggunaan AppTheme
+
+Warna disimpan di `AppTheme` karena pengaturan warna merupakan bagian dari tampilan aplikasi (View). Dengan demikian, seluruh komponen dapat menggunakan tema yang sama secara konsisten. Jika warna ingin diubah, cukup dilakukan melalui `AppTheme` tanpa mengubah kelas `Character`. Kelas `Character` tetap berfokus pada pengelolaan data dan atribut karakter.
+
+### Screenshot Output TP10
+
+**1. Screenshot Sebelum (v0.3)**
+
+![Screenshot Sebelum](Screenshot_JavaVisual/outputtp8_sesudah.png)
+
+**2. Screenshot Sesudah (v0.4)**
+
+![Screenshot Sesudah](Screenshot_JavaVisual/outputtp10_sesudah.png)
+
 
 ## Struktur Folder Project
 
@@ -60,10 +83,12 @@ Aliran data dimulai dari kelas `Main` yang berfungsi menginisialisasi objek `Cha
 CharacterrManager/
 ├── README.md
 ├── Screenshot_JavaVisual/
-│   └── outputtp3.png
-│   └── outputtp5.png
-    └── outputtp8_sebelum.png
-    └── outputtp8_sesudah.png
+│   ├── outputtp3.png
+│   ├── outputtp5.png
+│   ├── outputtp8_sebelum.png
+│   ├── outputtp8_sesudah.png
+│   ├── outputtp10_sebelum.png
+│   └── outputtp10_sesudah.png
 └── src/
     └── com/
         └── unpri/
@@ -74,6 +99,7 @@ CharacterrManager/
                 │   ├── CharacterManager.java
                 │   └── Main.java
                 └── view/
+                    ├── AppTheme.java
                     └── MainWindow.java
 ```
 
@@ -88,6 +114,9 @@ CharacterrManager/
 **Link Google Docs:** [Dokumen TP5](https://1drv.ms/w/c/3F04BCD0705D5ACD/IQCLGfsidsMiQ6f3CYXbPwSnAcmlPmaHwItOcZx_zgjckoU?e=fP7UHj)
 
 **Link Google Docs:** [Dokumen TP8](https://1drv.ms/w/c/3F04BCD0705D5ACD/IQDnqhN2Jpn4Rp3ahwA7BP03AS-uqR3VP1WR10uLFd25Tnc?e=pPrdza)
+
+**Link Google Docs:** [Dokumen TP10](https://1drv.ms/w/c/3F04BCD0705D5ACD/IQDuikKgx-H_S4gKuaxh5EmKAccUjEZNhukfo18XjG8CeV0?e=3HbceO)
+
 
 
 
