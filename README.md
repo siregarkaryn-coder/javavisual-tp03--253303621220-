@@ -74,7 +74,7 @@ Warna disimpan di `AppTheme` karena pengaturan warna merupakan bagian dari tampi
 
 **2. Screenshot Sesudah (v0.4)**
 
-![Screenshot Sesudah](Screenshot_JavaVisual/outputtp10_sesudah.png)
+![Screenshot Sesudah](outputtp10_sesudah.png)
 
 
 ## Struktur Folder Project
