@@ -38,8 +38,8 @@ Character Manager adalah program sederhana berbasis Java yang digunakan untuk me
 ## Screenshot Output TP8
 
 1. Screenshot MainWindow (Minimal 5 Karakter + Statistik)
-![Screenshot Sebelum](outputtp8_sebelum.png)
-![Screenshot Sesudah](outputtp8_sesudah.png)
+![Screenshot Sebelum](Screenshot_JavaVisual/outputtp8.png)
+![Screenshot Sesudah](Screenshot_JavaVisual/outputtp8.png)
 
 2. Penjelasan Aliran Data MVC (3-4 Kalimat)
 Aliran data dimulai dari kelas `Main` yang berfungsi menginisialisasi objek `CharacterManager` serta memasukkan data karakter awal. Objek `CharacterManager` bertindak sebagai Model yang menyimpan dan mengelola kumpulan data karakter secara terpusat. Data tersebut kemudian dikirimkan ke kelas `MainWindow` yang berperan sebagai View melalui constructor untuk dirender ke antarmuka pengguna, termasuk menampilkan perhitungan statistik rata-rata level. Penerapan pola MVC ini memisahkan secara tegas antara logika pengelolaan data dengan tampilan visual aplikasi.
@@ -116,10 +116,3 @@ CharacterrManager/
 **Link Google Docs:** [Dokumen TP8](https://1drv.ms/w/c/3F04BCD0705D5ACD/IQDnqhN2Jpn4Rp3ahwA7BP03AS-uqR3VP1WR10uLFd25Tnc?e=pPrdza)
 
 **Link Google Docs:** [Dokumen TP10](https://1drv.ms/w/c/3F04BCD0705D5ACD/IQDuikKgx-H_S4gKuaxh5EmKAccUjEZNhukfo18XjG8CeV0?e=3HbceO)
-
-
-
-
-
-
-
